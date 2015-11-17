@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 15/11/2015 19:01:29.
+     1>Proyecto "C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\BigMultParalelized\BigMultParalelized.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\Debug\BigMultParalelized.exe" /INCREMENTAL /NOLOGO mkl_intel_c_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\Debug\BigMultParalelized.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\Debug\BigMultParalelized.lib" /MACHINE:X86 Debug\Source.obj
+         BigMultParalelized.vcxproj -> C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\Debug\BigMultParalelized.exe
+     1>Compilación del proyecto terminada "C:\Users\Laura\Documents\GitHub\ParalelBigMultiplication\BigMultParalelized\BigMultParalelized\BigMultParalelized.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.14
